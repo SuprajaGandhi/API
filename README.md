@@ -1,8 +1,11 @@
 # API
 
 The objective of this mini-project is to learn API using Python. 
+
 **Explaining API to a kid**: When you order food from a restaurant, The restaurant is the server, you are the client, and the delivery agent is the API.
+
 **RESTful API**: Representational State Transfer Protocol
+
 It has a stateless architecture and does not remember the request or response, making it ideal for mobile applications. REST uses JSON or XML. JSON is also lightweight so the client can experience less latency.
 
 I have used the FASTAPI web framework to build API using Python. It offers a Pydantic library for data validation. you can use /docs to execute the methods.
