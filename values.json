@@ -1,0 +1,67 @@
+{
+  "people": [
+    {
+      "id": 2,
+      "firstname": "Jim",
+      "lastname": "Halpert",
+      "Age": 26,
+      "Gender": "M",
+      "Dept": "Sales",
+      "Salary": 60000
+    },
+    {
+      "id": 3,
+      "firstname": "Michael",
+      "lastname": "Scott",
+      "Age": 35,
+      "Gender": "M",
+      "Dept": "Regional Manager",
+      "Salary": 90000
+    },
+    {
+      "id": 4,
+      "firstname": "Dwight",
+      "lastname": "Schrute",
+      "Age": 29,
+      "Gender": "M",
+      "Dept": "Sales",
+      "Salary": 75000
+    },
+    {
+      "id": 5,
+      "firstname": "Angela",
+      "lastname": "Martin",
+      "Age": 32,
+      "Gender": "F",
+      "Dept": "Accounting",
+      "Salary": 80000
+    },
+    {
+      "id": 8,
+      "firstname": "Kelly",
+      "lastname": "Kapoor",
+      "Age": 27,
+      "Gender": "F",
+      "Dept": "Customer Relations",
+      "Salary": 60000
+    },
+    {
+      "id": 6,
+      "firstname": "Oscar",
+      "lastname": "Martinez",
+      "Age": 35,
+      "Gender": "M",
+      "Dept": "Accounting",
+      "Salary": "77000"
+    },
+    {
+      "id": 7,
+      "firstname": "Toby",
+      "lastname": "Flenderson",
+      "Age": 31,
+      "Gender": "M",
+      "Dept": "HR",
+      "Salary": "227414"
+    }
+  ]
+}
